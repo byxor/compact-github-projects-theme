@@ -1,0 +1,62 @@
+/* Task Boxes */
+.px-2 {
+    padding-right: 1px !important;
+}
+
+.pb-sm-2 {
+    padding-left: 0px !important;
+}
+
+.my-2 {
+    margin-bottom: 1px !important;
+    margin-top: 0px !important;
+}
+
+.project-card:first-child {
+	margin-top: 0px !important;
+}
+
+/* Task Box Internals */
+.pl-5, .px-5 {
+    padding-left: 4px !important;
+}
+
+.p-2 {
+	padding: 4px !important;
+}
+
+.card-octicon {
+    display: none !important;
+}
+
+.mr-5 {
+	margin-right: 18px !important;
+}
+
+.mb-1 {
+    margin-bottom: 0px !important;
+}
+
+.h5 {
+	font-size: 13px !important;
+}
+
+/* Task Columns */
+.mr-3 {
+    margin-right: 6px !important;
+}
+
+.project-column {
+	max-width: 225x !important;
+	min-width: 225px !important;
+}
+
+/* Task Column Title */
+.p-sm-2 {
+    padding: 0px !important;
+}
+
+/* Task Column Container */
+.p-sm-3 {
+    padding: 4px !important;
+}
