@@ -5,7 +5,7 @@ GitHub projects is a nice tool to manage a project's tasks, but a large portion 
 # Demo
 
 ## Before:
-<img alt="before" src="before.png" width=50%>
+<img alt="before" src="before.png" width=100%>
 
 ## After:
-<img alt="after" src="after.png" width=50%>
+<img alt="after" src="after.png" width=100%>
